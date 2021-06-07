@@ -248,6 +248,7 @@ void parseEncodedFile() {
 		}
 	}
 	cout << data << endl;
+	freeTree(root);
 }
 
 
