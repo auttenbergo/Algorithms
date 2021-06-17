@@ -6,7 +6,7 @@ This branch has two codes, one for converting Regex to NFA second for simulating
 
 ## Input:<br/>
 &nbsp;&nbsp;&nbsp;Regex<br/>
-Output:<br/>
+## Output:<br/>
 &nbsp;&nbsp;&nbsp;Number of states, Number of recepient states, Number of transitions<br/>
 &nbsp;&nbsp;&nbsp;Indexes of recepient states<br/>
 &nbsp;&nbsp;&nbsp;For each state, printing on the independent line following these schema:<br/>
@@ -17,7 +17,7 @@ Output:<br/>
 ## Input:<br/>
 &nbsp;&nbsp;&nbsp;Word to simulate<br/>
 &nbsp;&nbsp;&nbsp;NFA according to the previous task<br/>
-##Output:<br/>
+## Output:<br/>
 &nbsp;&nbsp;&nbsp;Printing side by side:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y(yes) if after reading one symbol NFA was in at least one recepient state<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N(no)  if after reading one symbol NFA was not in any recepient state<br/>
