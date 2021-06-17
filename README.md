@@ -2,9 +2,9 @@
 
 This branch has two codes, one for converting Regex to NFA second for simulating the NFA.<br/>
 
-#1) Converting Regex to NFA:<br/>
+# 1) Converting Regex to NFA:<br/>
 
-##Input:<br/>
+## Input:<br/>
 &nbsp;&nbsp;&nbsp;Regex<br/>
 Output:<br/>
 &nbsp;&nbsp;&nbsp;Number of states, Number of recepient states, Number of transitions<br/>
@@ -12,9 +12,9 @@ Output:<br/>
 &nbsp;&nbsp;&nbsp;For each state, printing on the independent line following these schema:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of transitions, Pairs where first one is the symbol and the second one is state index to wich it connects<br/>
 
-#2) Simulating The NFA:<br/>
+# 2) Simulating The NFA:<br/>
 
-##Input:<br/>
+## Input:<br/>
 &nbsp;&nbsp;&nbsp;Word to simulate<br/>
 &nbsp;&nbsp;&nbsp;NFA according to the previous task<br/>
 ##Output:<br/>
