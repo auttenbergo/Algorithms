@@ -16,9 +16,7 @@ struct Location {
 };
 
 bool Location::operator==(const Location& l) const {
-    if (x == l.x)
-        return y < l.y;
-    return x < l.x;
+    return x == l.x && y == l.y;
 }
 
 Location createLocation(int x, int y) {
