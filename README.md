@@ -1,6 +1,6 @@
 # Regex To NFA Algorithm
 
-This branch has two codes, one for converting Regex to NFA second for simulating the NFA.<br/>
+This branch has two codes, one for converting Regex to NFA, second for simulating the NFA.<br/>
 
 # 1) Converting Regex to NFA:<br/>
 
@@ -9,8 +9,8 @@ This branch has two codes, one for converting Regex to NFA second for simulating
 ## Output:<br/>
 &nbsp;&nbsp;&nbsp;Number of states, Number of recepient states, Number of transitions<br/>
 &nbsp;&nbsp;&nbsp;Indexes of recepient states<br/>
-&nbsp;&nbsp;&nbsp;For each state, printing on the independent line following these schema:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of transitions, Pairs where first one is the symbol and the second one is state index to wich it connects<br/>
+&nbsp;&nbsp;&nbsp;For each state, print on the independent line following this schema:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of transitions, Pairs where the first one is the symbol and the second one is state index to which it connects<br/>
 
 # 2) Simulating The NFA:<br/>
 
@@ -24,5 +24,5 @@ This branch has two codes, one for converting Regex to NFA second for simulating
 
 
 /---------------------------------/<br/>
-I had this tasks as homework in university(Free University). Tests are provided by my lecturer, Nikoloz Tsimakuridze
+I had these tasks as homework in university(Free University). Tests are provided by my lecturer, Nikoloz Tsimakuridze
 	
