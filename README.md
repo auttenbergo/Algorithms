@@ -1,5 +1,12 @@
-# Algorithms
+# NFA To CFG
 
-For each algorithm, new branch is created.<br>
-I am happy to hear new problems to solve ! I will add new problems time by time.<br>
-If you find any issues, I would love to hear and fix them.
+## NFA Formatting:<br/>
+&nbsp;&nbsp;&nbsp;Number of states, Number of recepient states, Number of transitions<br/>
+&nbsp;&nbsp;&nbsp;Indexes of recepient states<br/>
+&nbsp;&nbsp;&nbsp;For each state, print on the independent line following this schema:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of transitions, Pairs where the first one is the symbol and the second one is state index to which it connects<br/>
+
+## CFG Formatting:<br/>
+&nbsp;&nbsp;&nbsp;Variable Name -> Rule 1 | Rule 2 | ... | Rule N <br/>
+
+NFA Samples are provided by Free University lecturer, Nikoloz Tsimakuridze
