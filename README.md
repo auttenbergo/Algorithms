@@ -8,6 +8,6 @@
 
 ## CFG Formatting:<br/>
 &nbsp;&nbsp;&nbsp;For each rule:<br/>
-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;Rule -> Terminal 1 | Terminal 2 | ... | Terminal N <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rule -> Terminal 1 | Terminal 2 | ... | Terminal N <br/>
 
 NFA Samples are provided by Free University lecturer, Nikoloz Tsimakuridze
